@@ -1,1 +1,1 @@
-# Basic Stable Diffusion App using Streamlit
+# Basic Stable Diffusion Text-2-Image App using Streamlit
